@@ -40,7 +40,6 @@ body {
     padding-top: var(--bodyPaddingTop);
   }
 }
-
 @media (max-width: 800px) {
   a.ButtonLink {
     position: fixed;
