@@ -1,3 +1,5 @@
+Hospedado no Vercel: [acesse o site](https://aluraflix.imersao-alura.vercel.app/) 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
