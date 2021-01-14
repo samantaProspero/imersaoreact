@@ -1,7 +1,7 @@
 {
   "name": "samantaflix",
   "version": "0.1.0",
-  "license": "ISC",
+  "license": "private",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -47,8 +47,5 @@
     "eslint-plugin-jsx-a11y": "^6.3.1",
     "eslint-plugin-react": "^7.20.6",
     "eslint-plugin-react-hooks": "^4.1.0"
-  },
-  "optionalDependencies": {
-    "fsevents": "^2.3.1"
   }
 }
