@@ -2,7 +2,8 @@
   "name": "samantaflix",
   "version": "0.1.0",
   "engines": {
-    "node": "15.5.0"
+    "node": "12.16.1",
+    "npm": "6.14.8"
   },
   "private": true,
   "dependencies": {
